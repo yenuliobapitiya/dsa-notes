@@ -42,3 +42,11 @@ This repository contains 50 simple DSA problems to help build my problem-solving
 - [ ] 24. Detect a loop in a linked list
 - [ ] 25. Merge two sorted linked lists
 
+---
+
+## 📚 Stacks & Queues
+- [ ] 26. Implement stack using array
+- [ ] 27. Implement queue using array
+- [ ] 28. Check for balanced parentheses
+- [ ] 29. Evaluate postfix expression
+- [ ] 30. Implement stack using two queues
