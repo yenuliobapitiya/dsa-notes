@@ -70,3 +70,12 @@ This repository contains 50 simple DSA problems to help build my problem-solving
 - [ ] 40. Sum of n natural numbers
 - [ ] 41. Power of a number
 - [ ] 42. Reverse a number using recursion
+
+---
+
+## 🌳 Trees & Graphs (Beginner)
+- [ ] 43. Inorder traversal of binary tree
+- [ ] 44. Preorder traversal
+- [ ] 45. Postorder traversal
+- [ ] 46. Find height of a tree
+- [ ] 47. Count leaf nodes in a tree
