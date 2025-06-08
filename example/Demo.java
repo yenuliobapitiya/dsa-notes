@@ -3,7 +3,7 @@ public class Demo {
     public static void main(String[] args) {
         
         //create an array of integers
-        int nums[] = {5, 7, 9, 11, 13};
+        int nums[] = {1,2,3,5, 7, 9, 11, 13};
         int target = 11; //element to search for
 
         //call the linearSearch method
