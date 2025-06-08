@@ -19,3 +19,16 @@ This repository contains 50 simple DSA problems to help build my problem-solving
 - [ ] 9. Move all zeros to the end
 - [ ] 10. Left rotate the array by 1
 
+---
+
+## 📄 Strings
+- [ ] 11. Reverse a string
+- [ ] 12. Check if a string is palindrome
+- [ ] 13. Count vowels and consonants
+- [ ] 14. Remove duplicate characters
+- [ ] 15. Find the most frequent character
+- [ ] 16. Convert string to uppercase/lowercase
+- [ ] 17. Check if two strings are anagrams
+- [ ] 18. Replace spaces with `@40`
+- [ ] 19. Remove spaces from a string
+- [ ] 20. Print all substrings
