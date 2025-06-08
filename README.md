@@ -61,3 +61,12 @@ This repository contains 50 simple DSA problems to help build my problem-solving
 - [ ] 35. Insertion sort
 - [ ] 36. Merge sort
 - [ ] 37. Quick sort
+
+---
+
+## 🔄 Recursion
+- [ ] 38. Factorial of a number
+- [ ] 39. Fibonacci series
+- [ ] 40. Sum of n natural numbers
+- [ ] 41. Power of a number
+- [ ] 42. Reverse a number using recursion
