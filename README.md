@@ -32,3 +32,13 @@ This repository contains 50 simple DSA problems to help build my problem-solving
 - [ ] 18. Replace spaces with `@40`
 - [ ] 19. Remove spaces from a string
 - [ ] 20. Print all substrings
+
+---
+
+## 🔗 Linked Lists
+- [ ] 21. Print elements of a linked list
+- [ ] 22. Reverse a linked list
+- [ ] 23. Find length of linked list
+- [ ] 24. Detect a loop in a linked list
+- [ ] 25. Merge two sorted linked lists
+
