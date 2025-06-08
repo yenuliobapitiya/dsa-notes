@@ -50,3 +50,14 @@ This repository contains 50 simple DSA problems to help build my problem-solving
 - [ ] 28. Check for balanced parentheses
 - [ ] 29. Evaluate postfix expression
 - [ ] 30. Implement stack using two queues
+
+---
+
+## 🔍 Searching & Sorting
+- [ ] 31. Linear search
+- [ ] 32. Binary search
+- [ ] 33. Bubble sort
+- [ ] 34. Selection sort
+- [ ] 35. Insertion sort
+- [ ] 36. Merge sort
+- [ ] 37. Quick sort
