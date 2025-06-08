@@ -79,3 +79,10 @@ This repository contains 50 simple DSA problems to help build my problem-solving
 - [ ] 45. Postorder traversal
 - [ ] 46. Find height of a tree
 - [ ] 47. Count leaf nodes in a tree
+
+---
+
+## 💡 Miscellaneous
+- [ ] 48. Check if number is prime
+- [ ] 49. Find GCD of two numbers
+- [ ] 50. Swap two numbers without using third variable
