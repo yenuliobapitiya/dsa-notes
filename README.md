@@ -8,7 +8,7 @@ This repository contains 50 simple DSA problems to help build my problem-solving
 ---
 
 ## 🧮 Arrays
-- [✅ ] 1. Find the maximum element in an array
+- [ ] 1. Find the maximum element in an array
 - [ ] 2. Find the minimum element in an array
 - [ ] 3. Reverse an array
 - [ ] 4. Find the sum of all elements
