@@ -4,7 +4,7 @@ public class Demo {
 
     public static void main(String[] args) {
 
-        int nums[] = new int[1000];
+        int nums[] = new int[10000];
         int target = 900; // element to search for
 
         // call the linearSearch method
