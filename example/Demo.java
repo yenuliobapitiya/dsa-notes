@@ -58,6 +58,6 @@ public class Demo {
         }
         System.out.println("Steps taken by Binary : " + steps);
         return -1;
-    }
+    } 
 
 }
