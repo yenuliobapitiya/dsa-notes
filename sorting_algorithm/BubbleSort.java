@@ -3,7 +3,7 @@ package sorting_algorithm;
 public class BubbleSort {
     public static void main(String[] args) {
 
-        int nums[] = { 6, 5, 2, 8, 9, 4 };
+        int nums[] = { 6, 8,9,2,4,5 };
         int size = nums.length;
         int temp = 0;
 
@@ -13,7 +13,7 @@ public class BubbleSort {
         }
 
         for (int i = 0; i < size; i++) {
-            for (int j = 0; j < size; j++) {
+            for (int j = 0; j < size-1; j++) {
                 if (nums[j] > nums[j + 1]) {
                     temp = nums[j];
                     nums[j] = nums[j + 1];
